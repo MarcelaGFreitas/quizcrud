@@ -1,0 +1,11 @@
+[
+    {
+        "question": "What is the capital of South Africa?",
+        "options": [
+            "Johannesburg",
+            "Pretoria",
+            "Cape Town"
+        ],
+        "correct": 1
+    }
+]
