@@ -24,7 +24,7 @@ def save_quiz(questions):
 
 
 def add_question(questions, payload):
-    """Add question - UI branch modification"""
+    """Add a new question to the list"""
     if not payload["question"]:
         raise ValueError("Question cannot be empty")
     
